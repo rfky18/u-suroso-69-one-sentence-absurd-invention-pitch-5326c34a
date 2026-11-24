@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/rfky18/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 [![reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/rfky18/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 
-The PeekStick: a USB stick with a tiny periscope that checks the port before you plug it in upside down three times in a row.
+The Bouncer: a self-checkout that, on spotting an unexpected item in the bagging area, sends a tiny bouncer to throw it out, stamp REJECTED on its forehead, and ban it from the store for life.
 
 ## Run it
 
